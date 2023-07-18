@@ -1,0 +1,7 @@
+gcloud compute instances create gcelab2 --machine-type e2-medium --zone 
+gcloud compute ssh gcelab2 --zone  
+ Do you want to continue? (Y/n)
+Y
+Generating public/private rsa key pair.
+   Enter passphrase (empty for no passphrase)
+ exit
